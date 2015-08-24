@@ -75,10 +75,6 @@ body {
   text-align: center;
   width: 660px;
   float: left;
-  opacity: 0;
-}
-.shown {
-    opacity: 1 !important;
 }
 .button {
     font-family: KuashanScript-Regular  , sans-serif;
@@ -99,7 +95,7 @@ body {
     -moz-box-shadow: 1px 1px 1px 1px #ccc;
     box-shadow: 1px 1px 1px 1px #ccc;
 }
- 
+
 #mainwrapper .box img {
     position: absolute;
     left: 0;

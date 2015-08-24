@@ -1,0 +1,38 @@
+.dheader {
+	background-color: #281D28;
+	height: 400px;
+	padding: 0px 0px 0px 0px;
+	border-radius: 10px;
+}
+.htext {
+	text-align: center;
+	font-size: 40px;
+	padding-top: 100px;
+	color: white;
+	font-family: Courier;
+}
+#image img {
+  width: 50%;
+  height: 50%;
+}
+
+#image img:hover {
+  width: 70%;
+  height: 70%;
+}
+.footer {
+	height: 70px;
+	background-color: #281D28;
+	border-radius: 10px;
+}
+.ftext {
+	text-align: center;
+	font-size: 15px;
+	padding-top: 20px;
+	color: white;
+	font-family: Courier;
+}
+a {
+	color: white;
+	
+}

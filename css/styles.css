@@ -12,9 +12,8 @@ body {
 .main h3 {
     font-family: KaushanScript-Regular !important;
 }
-.sidebar {
-    float: left;
-    list-style: square;
+.main {
+    margin-bottom: 75px;
 }
 #wrapper{
     margin:60px 0 0 60px;
@@ -38,9 +37,8 @@ body {
     list-style-type: square;
     font-weight: bold;
 }
-.main {
-	margin-bottom: 75px;
-}
+
+                                /*   Imported Fonts   */
 @font-face {
     font-family: "AlexBrush-Regular";
     src: url(fonts/AlexBrush-Regular.ttf) format("truetype");
@@ -48,19 +46,6 @@ body {
 @font-face {
     font-family: "KaushanScript-Regular";
     src: url(fonts/KaushanScript-Regular.otf) format("truetype");
-}
-
-.port {
-	padding: 15px;
-}
-#images{
-    margin:50px auto;
-}
-#images a{
-    margin:0px 20px;
-    display:inline-block;
-    text-decoration:none;
-    color:black;
 }
     #mainwrapper {
   font: 10pt normal Arial, sans-serif;
@@ -72,8 +57,6 @@ body {
 }
 .button {
     font-family: KuashanScript-Regular  , sans-serif;
-    
-
 }
 #mainwrapper .box {
     opacity: 0.2;

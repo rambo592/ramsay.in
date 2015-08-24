@@ -12,19 +12,13 @@ body {
 .main h3 {
     font-family: KaushanScript-Regular !important;
 }
-.col-md-6 {
-	width: 100%;
-	padding-top: 60px;
-    margin-right: 00px;
-}
-
-.row {
-    margin-left: -15px;
-    margin-right: -15px
-}
 .sidebar {
-	padding-top: 70px;
-	float: left;
+    float: left;
+    list-style: square;
+}
+#wrapper{
+    margin:60px 0 0 60px;
+    padding:0;
 }
 .learn {
 	color: #E76C34;
@@ -120,11 +114,11 @@ body {
     left: 0;
 }
 #mainwrapper .box .simple-caption {
-    height: 30px;
+    height: 25px;
     width: 200px;
     display: block;
     bottom: -30px;
-    line-height: 0pt;
+    line-height: -5pt;
     text-align: center;
     color: white;
     font-weight: bold;

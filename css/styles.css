@@ -10,7 +10,7 @@ body {
     margin-top: 100px;
 }
 .main h3 {
-    font-family: KaushanScript-Regular !important;
+    font-family: Oxygen !important;
 }
 .main {
     margin-bottom: 75px;
@@ -46,6 +46,12 @@ body {
 @font-face {
     font-family: "KaushanScript-Regular";
     src: url(fonts/KaushanScript-Regular.otf) format("truetype");
+}
+@font-face {
+  font-family: 'Oxygen';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Oxygen Light'), local('Oxygen-Light'), url(https://fonts.gstatic.com/s/oxygen/v5/AwBqWF2kjhlybWamaKMPcSZ2oysoEQEeKwjgmXLRnTc.ttf) format('truetype');
 }
     #mainwrapper {
   font: 10pt normal Arial, sans-serif;
